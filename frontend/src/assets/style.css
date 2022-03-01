@@ -846,3 +846,122 @@ img.prevss {
     font-weight: 500;
   }
 }
+
+@media screen and (min-width: 501px) and (max-width: 800px) {
+  .starttext {
+    color: #fff;
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    font-size: xx-large;
+    font-family: poppins;
+  }
+  .post-slider .post-wrapper .post .slider-image {
+    left: 5%;
+    width: 50%;
+    height: 76%;
+    position: relative;
+    margin-top: 5%;
+  }
+  .like {
+    position: relative;
+    top: -81%;
+    left: 47%;
+    width: 10%;
+  }
+  .post-info {
+    display: flex;
+    margin-top: 12%;
+    width: 56%;
+    align-items: center;
+    justify-content: space-between;
+  }
+  button {
+    border-radius: 6px;
+    height: 6vh;
+    width: 55%;
+    border: none;
+    color: white;
+    background-color: #59af0f;
+  }
+  img.logoutimg {
+    width: 52%;
+    margin-left: 16%;
+  }
+  .number {
+    border-radius: 6px;
+    height: 5vh;
+    width: 55%;
+    border: none;
+    color: white;
+    /* display: flex; */
+    background-color: #59af0f;
+    letter-spacing: 12px;
+    justify-content: space-around;
+    padding-top: 2%;
+  }
+  .ring {
+    border: 1px solid black;
+    width: 130px;
+    height: 130px;
+    border-radius: 100px;
+    margin-bottom: 15%;
+  }
+  img.product {
+    height: 9vh;
+    margin-left: 16%;
+    margin-top: 12%;
+  }
+  .th-heading3 {
+    padding-left: 34%;
+    font-weight: 400;
+    color: #c1c1c1;
+    padding-bottom: 5%;
+  }
+  .cartbtn {
+    width: 14vw;
+    height: 5vh;
+    background-color: white;
+    color: black;
+    border: 1px solid #ebebeb;
+    border-radius: 20px;
+    letter-spacing: 6px;
+    font-size: medium;
+    color: black;
+    font-weight: 300;
+    padding-left: 8%;
+    cursor: pointer;
+  }
+  .footer {
+    margin-top: 20%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .cartfooter {
+    display: flex;
+    justify-content: space-between;
+    width: 76%;
+    float: right;
+    margin-right: 17%;
+    margin-top: 3%;
+  }
+  .details .dispatch .form input {
+    width: 146%;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px 0 35px;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 30px;
+    background-color: white;
+    border: 1px solid #cccccc;
+  }
+  h6.thankyoumessage {
+    text-align: center;
+    font-size: x-large;
+    margin-top: 3%;
+    font-family: poppins;
+    font-weight: 500;
+  }
+}
