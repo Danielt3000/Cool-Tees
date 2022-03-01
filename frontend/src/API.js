@@ -10,7 +10,7 @@ const LOGIN_USER_KEY = "LOGIN_USER_KEY";
 // } else {
 //   baseURL = "http://127.0.0.1:8000/";
 // }
-baseURL = "https://store-cooltees-backend.herokuapp.com/";
+var baseURL = "https://store-cooltees-backend.herokuapp.com/";
 
 const api = axios.create({
   baseURL: baseURL,
