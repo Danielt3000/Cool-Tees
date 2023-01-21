@@ -8,9 +8,9 @@ Cool-Tees, with a frontend built in React & Redux and a backend built in Django 
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://store-cooltees-frontend.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://frontend-cooltees.vercel.app/) here!!
 
-Check out [API LIVE DEMO](https://store-cooltees-backend.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://replit.com/@Danielt3000/cool-tees-backend#apps/items/models.py) here!!
 
 ## Tech used
 
